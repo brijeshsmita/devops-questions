@@ -1,3 +1,13 @@
+Few Useful Articles:
+1. https://dzone.com/articles/what-is-devops-the-beginners-guide-from-logzio 
+2. https://docs.docker.com/get-started/ 
+3. https://aws.amazon.com/what-is-cloud-computing/
+4. https://www.ibm.com/cloud/learn/cloud-computing
+5. https://www.ibm.com/cloud/garage/practices/code/tool_jenkins/
+6. https://guides.github.com/introduction/git-handbook/
+
+
+
 1. what is DevOps? 
 2. why do we need DevOps? 
 3. Mention the key aspects or principle behind DevOps? 
